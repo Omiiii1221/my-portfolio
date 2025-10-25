@@ -17,9 +17,13 @@ const Projects = () => {
     {
       title: "Used Car Price Prediction",
       date: "May 2025",
-      description: "ML model predicting used car prices with 92% accuracy. Conducted EDA and applied regression techniques, deployed with Flask and HTML/CSS frontend.",
+      description: "Developed a machine learning model to predict used car prices with 92% accuracy. Performed exploratory data analysis (EDA) and applied regression techniques to support better pricing insights. Deployed the model using Flask with an interactive HTML/CSS frontend.",
       technologies: ["Regression", "Flask", "EDA", "HTML", "CSS"],
-      achievements: ["92% prediction accuracy", "Full-stack deployment", "User-friendly interface"],
+      achievements: [
+        "Achieved 92% prediction accuracy",
+        "End-to-end deployment on AWS EC2",
+        "Designed a user-friendly web interface"
+      ],
       github: "https://github.com/Omiiii1221/car-price-prediction",
       live: "http://ec2-54-145-1-168.compute-1.amazonaws.com:8080/"
     },
