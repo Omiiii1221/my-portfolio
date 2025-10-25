@@ -17,10 +17,10 @@ const Projects = () => {
     {
       title: "Used Car Price Prediction",
       date: "May 2025",
-      description: "Developed a machine learning model to predict used car prices with 92% accuracy. Performed exploratory data analysis (EDA) and applied regression techniques to support better pricing insights. Deployed the model using Flask with an interactive HTML/CSS frontend.",
-      technologies: ["Regression", "Flask", "EDA", "HTML", "CSS"],
+      description: "Developed a machine learning model to predict used car prices with 83% accuracy. Performed exploratory data analysis (EDA) and applied ensemble techniques to support better pricing insights. Deployed the model using Flask with an interactive HTML/CSS frontend on AWS EC2.",
+      technologies: ["Python", "Flask", "XGBoost", "Pandas", "Scikit-learn", "AWS EC2", "HTML", "CSS"],
       achievements: [
-        "Achieved 92% prediction accuracy",
+        "Achieved 83% prediction accuracy",
         "End-to-end deployment on AWS EC2",
         "Designed a user-friendly web interface"
       ],
