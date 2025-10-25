@@ -7,7 +7,7 @@ const Education = () => {
       degree: "Post Graduate Certification in Data Science and Analytics with Advanced ML",
       institution: "Imarticus Learning",
       period: "July 2025",
-      link: "https://www.imarticus.com/",
+      link: "https://pegasus.imarticus.org/vfcrt/EK5ENEE85371E3",
       description: "Advanced training in Data Science, Machine Learning, Deep Learning, and Business Analytics"
     },
     {
